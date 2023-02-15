@@ -18,7 +18,7 @@ let undoRedoTracker = []; //Data
 let track = 0; // Represent which action from tracker array
 
 let mouseDown = false;
-let eraserFlag = false;
+//let eraserFlag = false;
 
 // API
 let tool = canvas.getContext("2d");
